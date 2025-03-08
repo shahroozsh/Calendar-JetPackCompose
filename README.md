@@ -3,13 +3,21 @@
 I have developed a custom calendar using Jetpack Compose for Android that offers significantly better performance than existing calendars, especially in terms of scrolling speed and smoothness.
 
 🔥 Key Features:
+
 • Ultra-Smooth Scrolling 🚀 (Optimized for performance)
+
 • Fully Jetpack Compose-Based 🎨 (No XML, modern UI)
+
 • Efficient Rendering ⚡ (Handles large date ranges seamlessly)
+
 • Lightweight & Fast 🏃‍♂️ (Minimal recompositions, optimized lazy lists)
+
 • Support for Custom UI & Themes 🎨 (Easily customizable)
+
 • Material 3 Ready ✨ (Modern UI/UX standards)
+
 • This calendar is designed to be more responsive, efficient, and user-friendly compared to traditional Android calendars.
+
 
 🏷 Tags:
 #Android #JetpackCompose #Calendar #Performance #SmoothScroll #Material3 #LazyColumn #CustomUI
